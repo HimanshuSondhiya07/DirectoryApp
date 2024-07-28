@@ -1,0 +1,40 @@
+.retrieve-information {
+    text-align: left;
+  }
+  
+  .retrieve-information input[type="text"] {
+    padding: 10px;
+    width: calc(100% - 22px);
+    margin-right: 10px;
+    box-sizing: border-box;
+  }
+  
+  .retrieve-information button {
+    padding: 10px 20px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .retrieve-information button:hover {
+    background-color: #0056b3;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #f4f4f4;
+  }
+  
